@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning **Java, Python, QT**
 
 - 📫 How to reach me **lukasz.kon.54@gmail.com**
-
+- Check the branch with codes from my previous semester! <a href="https://github.com/lukaszKonieczka1/My-Java-Sourcecodes/tree/lukaszKonieczka1-JavaLab" target="_blank" rel="noreferrer">JavaLab</a>
 
 <p align="left">
 </p>
