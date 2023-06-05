@@ -1,6 +1,6 @@
 # My-Java-Sourcecodes
 <h1 align="center">Hi 👋, I'm Łukasz Konieczka</h1>
-<h3 align="center">and I just look for a place to store the sourcecode that I write</h3>
+<h3 align="center">and this is the branch for my Java class homework from previous semester</h3>
 
 - 🌱 I’m currently learning **Java, Python, QT**
 
