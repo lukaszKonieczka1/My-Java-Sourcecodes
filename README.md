@@ -5,6 +5,7 @@
 - 🌱 I’m currently learning **Java, Python, QT**
 
 - 📫 How to reach me **lukasz.kon.54@gmail.com**
+- Check the code that I make now! <a href="https://github.com/lukaszKonieczka1/My-Java-Sourcecodes" target="_blank" rel="noreferrer">My Java Sourcecodes</a>
 
 <p align="left">
 </p>
